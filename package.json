@@ -38,5 +38,8 @@
     "keywords": [
         "date",
         "ntp"
-    ]
+    ],
+    "browser": {
+        "dgram": "react-native-udp"
+    }
 }
