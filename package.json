@@ -25,6 +25,9 @@
     "scripts": {
         "test": "grunt jshint nodeunit"
     },
+    "dependencies": {
+		"react-native-udp": "^2.0.0"
+    },
     "devDependencies": {
         "grunt": ">= 0.4.1",
         "grunt-contrib-jshint": ">= 0.6.0",
